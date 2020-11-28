@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>galactus</Name>
+  <Repository>automuteus/galactus</Repository>
+  <Registry>https://hub.docker.com/r/automuteus/galactus/</Registry>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support>https://hub.docker.com/r/automuteus/galactus/</Support>
+  <Project/>
+  <Overview>   Converted By Community Applications   Always verify this template (and values) against the dockerhub support page for the container</Overview>
+  <Category/>
+  <WebUI/>
+  <TemplateURL/>
+  <Icon>/plugins/dynamix.docker.manager/images/question.png</Icon>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled>1606545440</DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <Description>   Converted By Community Applications   Always verify this template (and values) against the dockerhub support page for the container</Description>
+  <Networking>
+    <Mode>bridge</Mode>
+    <Publish/>
+  </Networking>
+  <Data/>
+  <Environment>
+    <Variable>
+      <Value>NzY2NjQ5MTIyNjM1MTIwNjcx.X4mbog.uFifB0yGjihatua0XmoNS3vzNAQ</Value>
+      <Name>DISCORD_BOT_TOKEN</Name>
+      <Mode/>
+    </Variable>
+    <Variable>
+      <Value/>
+      <Name>REDIS_ADDR</Name>
+      <Mode/>
+    </Variable>
+    <Variable>
+      <Value/>
+      <Name>GALACTUS_PORT</Name>
+      <Mode/>
+    </Variable>
+    <Variable>
+      <Value/>
+      <Name>BROKER_PORT</Name>
+      <Mode/>
+    </Variable>
+    <Variable>
+      <Value/>
+      <Name>REDIS_USER</Name>
+      <Mode/>
+    </Variable>
+    <Variable>
+      <Value/>
+      <Name>REDIS_PASS</Name>
+      <Mode/>
+    </Variable>
+  </Environment>
+  <Labels/>
+  <Config Name="DISCORD_BOT_TOKEN" Target="DISCORD_BOT_TOKEN" Default="" Mode="" Description="Container Variable: DISCORD_BOT_TOKEN " Type="Variable" Display="always" Required="false" Mask="true">NzY2NjQ5MTIyNjM1MTIwNjcx.X4mbog.uFifB0yGjihatua0XmoNS3vzNAQ</Config>
+  <Config Name="REDIS_ADDR" Target="REDIS_ADDR" Default="" Mode="" Description="Container Variable: REDIS_ADDR" Type="Variable" Display="always" Required="false" Mask="false"/>
+  <Config Name="GALACTUS_PORT" Target="GALACTUS_PORT" Default="" Mode="" Description="Container Variable: GALACTUS_PORT" Type="Variable" Display="always" Required="false" Mask="false"/>
+  <Config Name="BROKER_PORT" Target="BROKER_PORT" Default="" Mode="" Description="Container Variable: BROKER_PORT" Type="Variable" Display="always" Required="false" Mask="false"/>
+  <Config Name="REDIS_USER" Target="REDIS_USER" Default="" Mode="" Description="Container Variable: REDIS_USER" Type="Variable" Display="always" Required="false" Mask="true"/>
+  <Config Name="REDIS_PASS" Target="REDIS_PASS" Default="" Mode="" Description="Container Variable: REDIS_PASS" Type="Variable" Display="always" Required="false" Mask="false"/>
+</Container>
