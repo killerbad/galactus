@@ -2,7 +2,7 @@
 The All-Knowing Bot Token and Socket Provider Aggregator.
 
 https://youtu.be/y8OnoxKotPQ
-
+Help
 ## Description
 
 This project is comprised of two key servers for enabling crucial functionality of AutoMuteUs.
